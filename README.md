@@ -10,7 +10,7 @@ I also enjoy planning and designing projects in **Figma**, focusing on structure
 I have worked on several projects, but my favorite one is a **Japanese language learning platform** — a large-scale web app with 10+ pages, complex user flows, API state management, and fully responsive design. Try it yourself: [Repository](https://github.com/kenshou2/react-japanese-learning-platform) · [Live Demo](https://kenshou2.github.io/react-japanese-learning-platform/)
 
 **Languages**  
-English — Fluent · Japanese — Intermediate (N4–N3) · Ukrainian, Russian — Native  
+English — Fluent · Japanese — Intermediate (N3) · Ukrainian, Russian — Native  
 I'm actively learning Japanese and genuinely enjoy the process.
 
 **About me**  
