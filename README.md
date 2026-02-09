@@ -1,6 +1,6 @@
 ## Hi, I'm Andrii 👋
 
-I'm a **Frontend Engineer** specializing in **React and TypeScript**, with a passion for building **production-ready, scalable, and visually polished web applications**.
+I'm a **Frontend Engineer** specializing in **React and TypeScript**, with a passion for building **production-oriented, scalable, and visually polished web applications**.
 
 **Tech Stack**  
 My primary stack is **React, TypeScript, and Tailwind CSS**.  
